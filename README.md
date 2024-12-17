@@ -10,7 +10,13 @@ com tarifes de trucades i total de compres en una botiga:
 a partir d'un cost fixe més un cost variable.
 
 2. Programa per sumar el cost total d'una cistella de compra de productes amb diferents preus unitaris i que a més 
-permet afegir subtotals per calcular el total.
+permet afegir subtotals per calcular el total tal que així:
+funció(2 xocolates) + funció(1 de xiclets) + funció(1 de carmels) = 2 + 0.5 + 1.5
+
+Sent, per tant, el total, 4.
+
+**Revisió**
+Aquesta entrega ha estat amablement revisada per Ramon.
 
 **Tecnologies utilitzades:**
 XAMPP, PHP 8.2.12 i HTML5, Visual Studio Code, no requereix llibreries externes.
@@ -19,8 +25,8 @@ XAMPP, PHP 8.2.12 i HTML5, Visual Studio Code, no requereix llibreries externes.
 Sistema operatiu compatible amb Windows, macOS o Linux, PHP >= 7.4 Cap dependència.
 
 **Execució:**
-1. Clona el repositori al teu PC : 1.2.PHP-Basic.git
-2. Obre i executa el fitxer principa al teu entorn d'execució:sprint1_tema2_nivell1.php
+1. Clona el repositori al teu PC : 1.2.PHP-Basico-Nivel2.git: (https://github.com/CristinaSoy/1.2.PHP-basico-Nivel2.git)
+2. Obre i executa el fitxer principa al teu entorn d'execució:sprint1_tema2_nivel2.php
 
 
 **Desplegament:** aquest projecte no requereix desplegament a producció, ja que és un conjunt d'exercicis pràctics. 
